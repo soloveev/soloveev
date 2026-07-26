@@ -25,21 +25,6 @@
 
 ---
 
-### Что здесь лежит
-
-Скиллы и инструменты, которыми я пользуюсь сам каждый день, — большинство из них разбираем на лаборатории.
-
-| Репозиторий | О чём |
-| --- | --- |
-| [**stories-studio**](https://github.com/soloveev/stories-studio) | Скилл для Claude: превращает пост в колоду Instagram-Stories с мудбордом и браузерным редактором |
-| [**exa-tabstack-search-skill**](https://github.com/soloveev/exa-tabstack-search-skill) | Веб-ресёрч для агента: семантический поиск, чтение страниц, обогащение данных с цитатами источников |
-| [**tech-explainer-landing-skill**](https://github.com/soloveev/tech-explainer-landing-skill) | Собирает обучающий лендинг, объясняющий технологию через ментальные модели и аналогии |
-| [**full-file-read-skill**](https://github.com/soloveev/full-file-read-skill) | Протокол гарантированного чтения большого файла до последней строки |
-| [**blog-starter**](https://github.com/soloveev/blog-starter) | Стартер личного блога на Hugo: 4 темы, демо-контент и AGENTS.md — отдайте репозиторий агенту |
-| [**lecture-slides-extractor**](https://github.com/soloveev/lecture-slides-extractor) | Достаёт слайды из записи лекции и сопоставляет их с транскриптом |
-
----
-
 ### Где меня читать
 
 - **[soloveev.com](https://soloveev.com)** — блог о технологиях, источниках вдохновения и человеческих качествах
