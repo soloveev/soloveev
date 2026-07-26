@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.ai-lab-agents.com/">
+  <a href="https://www.ai-lab-agents.com/" target="_blank" rel="noopener">
     <img src="./assets/cover.png" alt="Дмитрий Соловьёв — Agentic Analytics & Research Lab" width="1000">
   </a>
 </p>
