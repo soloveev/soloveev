@@ -1,9 +1,3 @@
-<!--
-  Это README профиля. Он появляется на https://github.com/soloveev,
-  если лежит в корне публичного репозитория с именем soloveev.
-  Обложка — выбранный PNG из assets/. Замените имя файла на нужный вариант.
--->
-
 <p align="center">
   <a href="https://www.ai-lab-agents.com/">
     <img src="./assets/cover.png" alt="Дмитрий Соловьёв — Agentic Analytics & Research Lab" width="1000">
