@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.ai-lab-agents.com/">
-    <img src="./assets/cover.png" alt="Дмитрий Соловьёв — Agentic Analytics & Research Lab" width="1000">
+    <img src="./assets/cover.png" alt="Дмитрий Соловьёв — AI Lab" width="1000">
   </a>
 </p>
 
